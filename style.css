@@ -11,7 +11,7 @@ body {
   justify-content: center;
   height: 100vh;
 
-  background-color: hsla(228, 45%, 44%, 0.205);
+  background-color: hsl(212, 45%, 89%);
 }
 .text {
   display: flex;
@@ -34,12 +34,14 @@ img {
   margin-top: 10px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  color: hsl(218, 44%, 22%);
 }
 .text p {
   margin-top: 10px;
   font-size: 12px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  color: hsl(216, 15%, 48%);
 }
 .attribution {
   margin-top: 20px;
